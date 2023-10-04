@@ -1,1 +1,13 @@
-style.css
+.main{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-color: wheat;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    font-family: 'Climate Crisis', cursive;
+
+}
